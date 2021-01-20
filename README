@@ -1,0 +1,9 @@
+Généré avec express-generator :
+
+> npm install -g express-generator
+> express --ejs --css stylus --git express-generator-demo
+
+Après avoir récupéré le dépôt (git clone) :
+
+> npm install
+> DEBUG=express-generator-demo:* npm start
